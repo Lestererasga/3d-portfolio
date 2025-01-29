@@ -100,19 +100,19 @@ export const myProjects = [
     // subdesc:
     //   "Built as a unique Software-as-a-Service app with Next.js 14, Tailwind CSS, TypeScript, Framer Motion and Convex, Podcastr is designed for optimal performance and scalability.",
     href: "https://idealvision.ph/",
-    texture: "/textures/project/project1.mp4",
-    logo: "/assets/circle.svg",
+    texture: "textures/project/project1.mp4",
+    logo: "assets/circle.svg",
     logoStyle: {
       backgroundColor: "#2A1816",
       border: "0.2px solid #36201D",
       boxShadow: "0px 0px 60px 0px #AA3C304D",
     },
-    spotlight: "/assets/spotlight1.png",
+    spotlight: "assets/spotlight1.png",
     tags: [
       {
         id: 1,
         name: "Wordpress",
-        path: "/assets/wordpress.png",
+        path: "assets/wordpress.png",
       },
       {
         id: 2,
@@ -122,17 +122,17 @@ export const myProjects = [
       {
         id: 3,
         name: "PHP",
-        path: "/assets/php.svg",
+        path: "assets/php.svg",
       },
       {
         id: 4,
         name: "Javascript",
-        path: "/assets/javascript.svg",
+        path: "assets/javascript.svg",
       },
       {
         id: 5,
         name: "JQuery",
-        path: "/assets/jquery.svg",
+        path: "assets/jquery.svg",
       },
     ],
   },
@@ -142,19 +142,19 @@ export const myProjects = [
     // subdesc:
     //   "Built as a unique Software-as-a-Service app with Next.js 14, Tailwind CSS, TypeScript, Framer Motion and Convex, Podcastr is designed for optimal performance and scalability.",
     href: "https://evalvestudiocorp.com/",
-    texture: "/textures/project/project10.mp4",
-    logo: "/assets/circle.svg",
+    texture: "textures/project/project10.mp4",
+    logo: "assets/circle.svg",
     logoStyle: {
       backgroundColor: "#2A1816",
       border: "0.2px solid #36201D",
       boxShadow: "0px 0px 60px 0px #AA3C304D",
     },
-    spotlight: "/assets/spotlight1.png",
+    spotlight: "assets/spotlight1.png",
     tags: [
       {
         id: 1,
         name: "Wordpress",
-        path: "/assets/wordpress.png",
+        path: "assets/wordpress.png",
       },
       {
         id: 2,
@@ -164,17 +164,17 @@ export const myProjects = [
       {
         id: 3,
         name: "PHP",
-        path: "/assets/php.svg",
+        path: "assets/php.svg",
       },
       {
         id: 4,
         name: "Javascript",
-        path: "/assets/javascript.svg",
+        path: "assets/javascript.svg",
       },
       {
         id: 5,
         name: "JQuery",
-        path: "/assets/jquery.svg",
+        path: "assets/jquery.svg",
       },
     ],
   },
@@ -184,19 +184,19 @@ export const myProjects = [
     // subdesc:
     //   "Built as a unique Software-as-a-Service app with Next.js 14, Tailwind CSS, TypeScript, Framer Motion and Convex, Podcastr is designed for optimal performance and scalability.",
     // href: "",
-    texture: "/textures/project/project9.mp4",
-    logo: "/assets/circle.svg",
+    texture: "textures/project/project9.mp4",
+    logo: "assets/circle.svg",
     logoStyle: {
       backgroundColor: "#2A1816",
       border: "0.2px solid #36201D",
       boxShadow: "0px 0px 60px 0px #AA3C304D",
     },
-    spotlight: "/assets/spotlight1.png",
+    spotlight: "assets/spotlight1.png",
     tags: [
       {
         id: 1,
         name: "Code Igniter",
-        path: "/assets/codeigniter.svg",
+        path: "assets/codeigniter.svg",
       },
       {
         id: 2,
@@ -206,17 +206,17 @@ export const myProjects = [
       {
         id: 3,
         name: "PHP",
-        path: "/assets/php.svg",
+        path: "assets/php.svg",
       },
       {
         id: 4,
         name: "MySql",
-        path: "/assets/mysql.svg",
+        path: "assets/mysql.svg",
       },
       {
         id: 5,
         name: "JQuery",
-        path: "/assets/jquery.svg",
+        path: "assets/jquery.svg",
       },
     ],
   },
@@ -226,19 +226,19 @@ export const myProjects = [
     subdesc:
       "With LiveDoc, users can experience the future of collaboration, where multiple contributors work together in real time without any lag, by using Next.js and Liveblocks newest features.",
     href: "https://lbe-live-docs.vercel.app/",
-    texture: "/textures/project/project2.mp4",
-    logo: "/assets/project-logo2.png",
+    texture: "textures/project/project2.mp4",
+    logo: "assets/project-logo2.png",
     logoStyle: {
       backgroundColor: "#13202F",
       border: "0.2px solid #17293E",
       boxShadow: "0px 0px 60px 0px #2F6DB54D",
     },
-    spotlight: "/assets/spotlight2.png",
+    spotlight: "assets/spotlight2.png",
     tags: [
       {
         id: 1,
         name: "React.js",
-        path: "/assets/react.svg",
+        path: "assets/react.svg",
       },
       {
         id: 2,
@@ -248,12 +248,12 @@ export const myProjects = [
       {
         id: 3,
         name: "TypeScript",
-        path: "/assets/typescript.png",
+        path: "assets/typescript.png",
       },
       {
         id: 4,
         name: "Framer Motion",
-        path: "/assets/framer.png",
+        path: "assets/framer.png",
       },
     ],
   },
@@ -263,8 +263,8 @@ export const myProjects = [
     subdesc:
       "With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.",
     href: "https://lbe-patientsys.vercel.app/",
-    texture: "/textures/project/project3.mp4",
-    logo: "/assets/project-logo3.png",
+    texture: "textures/project/project3.mp4",
+    logo: "assets/project-logo3.png",
     logoStyle: {
       backgroundColor: "#60f5a1",
       background:
@@ -272,12 +272,12 @@ export const myProjects = [
       border: "0.2px solid rgba(208, 213, 221, 1)",
       boxShadow: "0px 0px 60px 0px rgba(35, 131, 96, 0.3)",
     },
-    spotlight: "/assets/spotlight3.png",
+    spotlight: "assets/spotlight3.png",
     tags: [
       {
         id: 1,
         name: "React.js",
-        path: "/assets/react.svg",
+        path: "assets/react.svg",
       },
       {
         id: 2,
@@ -287,12 +287,12 @@ export const myProjects = [
       {
         id: 3,
         name: "TypeScript",
-        path: "/assets/typescript.png",
+        path: "assets/typescript.png",
       },
       {
         id: 4,
         name: "Framer Motion",
-        path: "/assets/framer.png",
+        path: "assets/framer.png",
       },
     ],
   },
@@ -302,19 +302,19 @@ export const myProjects = [
     // subdesc:
     //   "With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.",
     href: "https://lestererasga.github.io/saas-page/",
-    texture: "/textures/project/project7.mp4",
-    logo: "/assets/circle.svg",
+    texture: "textures/project/project7.mp4",
+    logo: "assets/circle.svg",
     logoStyle: {
       backgroundColor: "#13202F",
       border: "0.2px solid #17293E",
       boxShadow: "0px 0px 60px 0px #2F6DB54D",
     },
-    spotlight: "/assets/spotlight3.png",
+    spotlight: "assets/spotlight3.png",
     tags: [
       {
         id: 1,
         name: "React.js",
-        path: "/assets/react.svg",
+        path: "assets/react.svg",
       },
       {
         id: 2,
@@ -324,7 +324,7 @@ export const myProjects = [
       {
         id: 3,
         name: "Vite",
-        path: "/assets/vite.svg",
+        path: "assets/vite.svg",
       },
     ],
   },
@@ -447,7 +447,7 @@ export const workExperiences = [
     duration: "2016 - Present",
     title:
       "Experienced in managing and maintaining websites and e-commerce platforms, specializing in WordPress and WooCommerce. Skilled in custom website development, plugin customization, and optimizing site performance and security. Proficient in API integrations, SEO, Google Analytics, and Meta Pixel setup. Hands-on with managing seller center accounts on Lazada and Shopee, product photography and editing, and version control using Git. Expertise in troubleshooting hardware/software issues, managing email systems with Microsoft 365, and developing stock inventory systems using CodeIgniter. Strong focus on delivering seamless user experiences and efficient back-end solutions.",
-    icon: "/assets/circle.svg",
+    icon: "assets/circle.svg",
     animation: "victory",
   },
   {
@@ -457,7 +457,7 @@ export const workExperiences = [
     duration: "2022 - 2024",
     title:
       "Experienced in maintaining and updating websites on WordPress, Webflow, and Kajabi. Skilled in developing WordPress sites with Elementor and customizing Shopify stores. Expertise in website optimization, security, SEO, and migrating sites from development to production environments.",
-    icon: "/assets/circle.svg",
+    icon: "assets/circle.svg",
     animation: "clapping",
   },
   {
@@ -467,7 +467,7 @@ export const workExperiences = [
     duration: "2021 - 2022",
     title:
       "Experienced in developing new WordPress websites, including theme and plugin customization. Skilled in website optimization to enhance performance, SEO and user experience.",
-    icon: "/assets/circle.svg",
+    icon: "assets/circle.svg",
     animation: "salute",
   },
 ];
