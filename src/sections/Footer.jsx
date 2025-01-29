@@ -8,9 +8,15 @@ const Footer = () => {
       </div>
 
       <div className="flex gap-3">
-        <div className="social-icon">
-          <img src="/assets/github.svg" alt="github" className="w-1/2 h-1/2" />
-        </div>
+        <a href="https://github.com/lestererasga">
+          <div className="social-icon">
+            <img
+              src="/assets/github.svg"
+              alt="github"
+              className="w-1/2 h-1/2"
+            />
+          </div>
+        </a>
         {/* <div className="social-icon">
           <img
             src="/assets/twitter.svg"
@@ -28,7 +34,7 @@ const Footer = () => {
       </div>
 
       <p className="text-white-500">
-        © 2024 Lester Erasga. All rights reserved.
+        © 2025 Lester Erasga. All rights reserved.
       </p>
     </footer>
   );
